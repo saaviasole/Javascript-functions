@@ -5,7 +5,7 @@ function greet() {
 greet()
 
 var greetMessage = function() {
-    console.log("h1 Good day")
+    console.log("H1 Good day")
 };
 
 greetMessege()
